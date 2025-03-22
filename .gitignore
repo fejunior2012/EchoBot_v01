@@ -1,0 +1,9 @@
+.env
+*.exe
+*.sqlite3
+screts.toml
+.venv/
+__pycache__/
+chroma/
+build/
+dist/
